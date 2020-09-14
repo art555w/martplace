@@ -26,3 +26,26 @@ body {
 	margin: 0px auto;
 	padding: 0 15px;
 }
+.slid-box {
+	max-width: 1140px;
+	height: 110px;
+	box-shadow: 0 2px 4px rgba(108, 111, 115, 0.1);
+	border-radius: 4px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	background-color: #ffffff;
+	padding: 0 30px;
+}
+.slid-title {
+	color: #000000;
+	font-size: 30px;
+	line-height: 28px;
+	padding-right: 20px;
+}
+.slid-btn {
+	width: 110px;
+	height: 45px;
+	border-radius: 23px;
+	background-color: #7347c1;
+}
